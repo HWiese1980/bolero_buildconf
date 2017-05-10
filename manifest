@@ -13,7 +13,7 @@ layout:
   - learning/bolero/src/representation/dmp
   - learning/bolero
   # Optional packages
-  # - learning/bolero/src/environment/mars_environment
+  - learning/bolero/src/environment/mars_environment
 
   
 exclude_packages:
